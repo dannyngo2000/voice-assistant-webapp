@@ -11,6 +11,11 @@ Overview:
 News Search: 
 <img src = "./public/News.png" width="3000" height="1500">
 
+Track Search:
+<img src= "./public/TrackSearch.png" width="3000" height="3000">
+
+Daily Reading:
+<img src ="./public/DailyReading.png" width="3000" height="3000">
 ## Available Scripts
 
 In the project directory, you can run:
