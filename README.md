@@ -5,6 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Voice-assistant project built with AlanAI, React Hooks. It was integrated with SpotifyAPI, NewsAPI and HoroscopeAPI. Allowing users to search for News, Songs, Artists and Horoscope reading.
 
+Try out the app here : https://testdeploy-for-voice-assistant.web.app/
 
 
 In the project directory, you can run:
