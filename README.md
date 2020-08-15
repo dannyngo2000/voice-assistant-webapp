@@ -9,13 +9,13 @@ Overview:
 <img src ="./public/Overview.png" width="2880" height="1800">
 
 News Search: 
-<img src = "./public/News.png" width="3000" height="1500">
+<img src = "./public/News.png" width="2880" height="1800">
 
 Track Search:
-<img src= "./public/TrackSearch.png" width="3000" height="3000">
+<img src= "./public/TrackSearch.png" width="2880" height="1800">
 
 Daily Reading:
-<img src ="./public/DailyReading.png" width="3000" height="3000">
+<img src ="./public/DailyReading.png" width="2880" height="1800">
 ## Available Scripts
 
 In the project directory, you can run:
