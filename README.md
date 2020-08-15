@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Voice-assistant project built with AlanAI. It was integrated with SpotifyAPI, NewsAPI and HoroscopeAPI. Allowing users to search for News, Songs, Artists and Horoscope reading.
 
 Overview:
-<img src ="./public/Overview.png" width="3000" height="1500">
+<img src ="./public/Overview.png" width="2880" height="1800">
 
 News Search: 
 <img src = "./public/News.png" width="3000" height="1500">
