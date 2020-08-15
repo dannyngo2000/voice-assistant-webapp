@@ -8,8 +8,8 @@ Voice-assistant project built with AlanAI. It was integrated with SpotifyAPI, Ne
 Overview:
 <img src ="./public/Overview.png" width="3000" height="1500">
 
-
-
+News Search: 
+<img src = "./public/News.png" width="3000" height="1500">
 
 ## Available Scripts
 
