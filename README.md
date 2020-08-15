@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## Overview:
+
+Voice-assistant project built with AlanAI. It was integrated with SpotifyAPI, NewsAPI and HoroscopeAPI. Allowing users to search for News, Songs, Artists and Horoscope reading.
+
+
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
