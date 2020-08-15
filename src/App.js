@@ -99,7 +99,7 @@ function App() {
               console.log(artistName);
               const token = await getToken();
               const result = await fetch(
-                `https://api.spotify.com/v1/search?q=${artistName}&type=artist&limit=1`,
+                `https://api.spotify.com/v1/search?q=${artistName}&type=artist&limit=10`,
                 {
                   method: "GET",
                   headers: {
